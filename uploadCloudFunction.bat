@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Tencent\微信web开发者工具\cli.bat" cloud functions deploy --e aaa19023-7g7xl589500fab00 --n quickstartFunctions --r --project "C:\Users\ASUS\毕业论文构建\微信小程序" --report_first --report
